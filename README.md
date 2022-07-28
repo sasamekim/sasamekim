@@ -1,0 +1,10 @@
+- 👋 Olá, eu sou @sasamekim
+- 👀 Sou interessada em começar a aprender a programar
+- 🌱 Atualmente estou aprendendo a programar
+- 💞️ Procuro colaborar com o Github
+
+
+<!---
+sasamekim/sasamekim é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
+--->
